@@ -45,7 +45,3 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif"  />
-</div>
